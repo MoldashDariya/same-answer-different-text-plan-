@@ -4,7 +4,7 @@ Preregistered analysis plan, prompts and code for the study **"Same Answer, Diff
 
 The study asks a single question. Does an LLM judge's rubric score for a Kazakh answer change when a native speaker makes the text more natural without changing its content?
 
-**Authors:** Dariya Moldash (Kazakh-British Technical University), Ayagoz Imansakipova (Almaty Technological University)
+**Authors:** Dariya Moldash (Kazakh-British Technical University), Ayagoz Imansakipova (Almaty University of Power Engineering and Telecommunications named after Gumarbek Daukeyev)
 
 ## Contents
 
@@ -32,3 +32,8 @@ The study data are not published here until the ethics decision. This covers the
 ## License
 
 Text and code: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+## Registration
+
+- DOI (v1.0, frozen 2026-11-07): [10.5281/zenodo.24023433](https://doi.org/10.5281/zenodo.24023433)
+- `PREREGISTRATION.md` is kept exactly as registered. The affiliation of A. Imansakipova given there (Almaty Technological University) has since changed: she is now at Almaty University of Power Engineering and Telecommunications named after Gumarbek Daukeyev.
